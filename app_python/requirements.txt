@@ -3,3 +3,4 @@ fastapi
 pytz
 httpx
 certifi==2023.7.22
+starlette>=0.40.0 # not directly required, pinned by Snyk to avoid a vulnerability
